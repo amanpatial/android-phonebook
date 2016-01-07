@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PHONE BOOK</string>
+    <string name="txtFirstName">First Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtPhoneNumber">Phone Number</string>
+    <string name="btnSave">SAVE</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_add" translatable="false">Add</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_phonebook">Phonebook</string>
+    <string name="title_activity_phonebook_add">Add New Contact Number</string>
+    <string name="title_activity_phonebook_display">Phonebook Display</string>
+    <string name="title_activity_phonebook_view">PhonebookViewActivity</string>
+</resources>
