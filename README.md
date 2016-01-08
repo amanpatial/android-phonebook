@@ -12,11 +12,9 @@ Phonebook app displays the phone contacts. You can add new phone contact through
 ## Screenshot
 
 <!--![alt tag](https://raw.githubusercontent.com/aman-patial/android-phonebook/master/app/src/main/snapshot/phonebook-display.png)-->
-![alt-text-1](https://raw.githubusercontent.com/aman-patial/android-phonebook/master/app/src/main/snapshot/phonebook-refresh-add.png "title-1") ![alt-text-2](https://raw.githubusercontent.com/aman-patial/android-phonebook/master/app/src/main/snapshot/phonebook-add.png "title-2")
+![alt-text-1](https://raw.githubusercontent.com/aman-patial/android-phonebook/master/app/src/main/snapshot/phonebook-refresh-add.png "Display") 
+![alt-text-2](https://raw.githubusercontent.com/aman-patial/android-phonebook/master/app/src/main/snapshot/phonebook-add.png "Add")
 
-![tag](https://raw.githubusercontent.com/aman-patial/android-phonebook/master/app/src/main/snapshot/phonebook-refresh-add.png)
-
-![tag](https://raw.githubusercontent.com/aman-patial/android-phonebook/master/app/src/main/snapshot/phonebook-add.png)
 
 ## Use/Contribute 
 
